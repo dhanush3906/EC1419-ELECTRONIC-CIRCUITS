@@ -5,8 +5,15 @@
 
 
 ## ATTACH THE CORRECT CIRCUIT
+Parameter	Value
+
+Theoretical Frequency of Oscillation	1 kHz
+
+Practical Frequency of Oscillation	0.98 kHz
 
 ## GRAPHS
+<img width="1280" height="322" alt="image" src="https://github.com/user-attachments/assets/0d89aaa9-29fd-4e4a-846e-5c4e129b365e" />
+
 
 
 <img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2e2399-6a9f-49ec-b40c-3c2982d4b82c" />
